@@ -1,4 +1,6 @@
 $(function(){
+    $forkMeGH.show("https://github.com/PeiYumeng/rectangle");
+    $bszPageFooter.show("body");
     //get dom elem
     var $width = $('#width'),
           $height = $('#height'),
